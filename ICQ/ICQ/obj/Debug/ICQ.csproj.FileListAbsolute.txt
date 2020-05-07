@@ -1,0 +1,12 @@
+G:\Проекты\ICQ\ICQ\bin\Debug\ICQ.exe.config
+G:\Проекты\ICQ\ICQ\bin\Debug\ICQ.exe
+G:\Проекты\ICQ\ICQ\bin\Debug\ICQ.pdb
+G:\Проекты\ICQ\ICQ\obj\Debug\ICQ.csprojAssemblyReference.cache
+G:\Проекты\ICQ\ICQ\obj\Debug\ICQ.Form1.resources
+G:\Проекты\ICQ\ICQ\obj\Debug\ICQ.Properties.Resources.resources
+G:\Проекты\ICQ\ICQ\obj\Debug\ICQ.csproj.GenerateResource.cache
+G:\Проекты\ICQ\ICQ\obj\Debug\ICQ.csproj.CoreCompileInputs.cache
+G:\Проекты\ICQ\ICQ\obj\Debug\ICQ.exe
+G:\Проекты\ICQ\ICQ\obj\Debug\ICQ.pdb
+G:\Проекты\ICQ\ICQ\obj\Debug\ICQ.RegistrationForm.Registration.resources
+G:\Проекты\ICQ\ICQ\obj\Debug\ICQ.ChatForm.Chat.resources
